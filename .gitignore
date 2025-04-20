@@ -1,0 +1,8 @@
+*env*
+__pycache__/
+testing/
+*.pyc
+*.zip
+*log*.txt
+dataset/
+checkpoints*/
